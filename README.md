@@ -1,6 +1,8 @@
 This repository exists for the web-based simulator to be deployed into
 it, so that it can be served from GitHub pages.
 
+To try out the demo, see https://tx-2.github.io/demo/.
+
 The code for the web-based simulator itself is in
 https://github.com/TX-2/TX-2-simulator.  That repository also contains
 the GitHub actions which deploy code into this repository.
